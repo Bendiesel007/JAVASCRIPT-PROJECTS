@@ -1,9 +1,11 @@
 // main.js
 // Sent1 and Sent2 are string values
 // window.alert is the method used
-// \n creates a line break so each variable appears on its own line
+// Combine strings using the plus operator
 // Concatenate the strings by utilizing +
-window.alert("Sentence 1 : " + "This is the beginning of the string" + "\nSentence 2: " + "and this is the end of the string");
+var sent1 = "This is the beginning of the string";
+var sent2 = "and this is the end of the string";
+window.alert(sent1 + sent2);
 
 // window.alert expression and statement to display a result after the OK button is clicked on the alert window
 window.alert(200 * 2)
