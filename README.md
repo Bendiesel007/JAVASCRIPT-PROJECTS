@@ -10,3 +10,5 @@ Utilized both methods to write an expession and statement yielding a result.
 Utilized the script element and src attribute to link Javascript and HTML files.
 
 Utilized resources W3SCHOOLS and Stack Overflow.
+
+**Project2_functions**
