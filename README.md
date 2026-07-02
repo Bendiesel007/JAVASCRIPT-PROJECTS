@@ -3,10 +3,10 @@
 
 I was able to utilize two Javascrit methods (window.alert and document.write).
 
-I created two variables and concatenated two variables together using + operation
+I created two variables and concatenated two variables together using + operation.
 .
 Utilized both methods to write an expession and statement yielding a result.
 
-Utilized the script element and src attribute to link Javascript and HTML files
+Utilized the script element and src attribute to link Javascript and HTML files.
 
-Utilized resources W3SCHOOLS and Stack Overflow
+Utilized resources W3SCHOOLS and Stack Overflow.
