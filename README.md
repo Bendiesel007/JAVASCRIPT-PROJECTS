@@ -26,3 +26,13 @@ Use document.getElementById method to select a single HTML element from the DOM
 Link an external Javascript file to my HTML document.
 
 Create an event within the paragraph element so Javascript code can be called.
+
+**Project3_Math_Operators submission step #96
+
+Write Javascript functions utilizing each of the following operators: +, - , *, %, ++, --
+
+Write a function utilizing Math.random()
+
+Create HTML elements and event handlers for each JavaScript function
+
+Add commnent explaining my code
