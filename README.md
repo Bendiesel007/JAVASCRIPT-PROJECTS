@@ -36,3 +36,15 @@ Write a function utilizing Math.random()
 Create HTML elements and event handlers for each JavaScript function
 
 Add commnent explaining my code
+
+**Project4_Dictionaries Submission step #103
+
+Created a dictionary with a function that outputs a key-value pair into an HTML element
+
+Write a delete statement that removes the key before its value is displayed
+
+Create a basic HTML document
+
+Link an external Javascript file to my HTML document
+
+Add comments throughout your JavaScript explaining your code
