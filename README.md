@@ -48,3 +48,15 @@ Create a basic HTML document
 Link an external Javascript file to my HTML document
 
 Add comments throughout your JavaScript explaining your code
+
+**Project 5_Comparisons_Type Submission Step #127**
+
+Update HTML document 
+
+Write code utilizing the following operators: ==, ===, >, <, &&, ||, ! and display them in the browser
+
+Write an expression combining a string and a number.
+
+Utilize the document.write() method and typeof operator to display the data type of a variable
+
+Add comments throughout your JavaScript explaining your code
