@@ -51,12 +51,14 @@ Add comments throughout your JavaScript explaining your code
 
 **Project 5_Comparisons_Type Submission Step #127**
 
-Update HTML document 
+I Updated my HTML document to reflect this code assignment 
 
-Write code utilizing the following operators: ==, ===, >, <, &&, ||, ! and display them in the browser
+I wrote my code utilizing the following operators: ==, ===, >, <, &&, ||, ! 
 
-Write an expression combining a string and a number.
+I wrote an expression combining a string and a number.
 
 Utilize the document.write() method and typeof operator to display the data type of a variable
 
-Add comments throughout your JavaScript explaining your code
+Added commnents explaining my code
+
+Suceesfully executed my code in the browser
