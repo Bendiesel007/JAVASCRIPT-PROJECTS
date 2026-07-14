@@ -23,5 +23,9 @@ function triple_equal_Function() { // Utilize the triple equal operator to show 
 //In this case, the variable X is a number and the variable Y is a String. This will render a false comparison.//
     X = 100; // Variable X is a number.
     Y ="100"; // Variable Y is a string.
-    document.write(X === Y); // Utilizing document.write method, the variable X is a number and the variable Y is a String. This will render a false comparison.//
+    W = "This is a string" + Y + "and this number" + X;
+    Z = typeof(Y);
+    document.write(X === Y);
+    document.write("The type of Y is:" + Z);
+    document.write(W);
 }
