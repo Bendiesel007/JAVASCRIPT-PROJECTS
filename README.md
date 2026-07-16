@@ -62,3 +62,17 @@ Utilize the document.write() method and typeof operator to display the data type
 Added commnents explaining my code
 
 Suceesfully executed my code in the browser
+
+**Project 6_Operators_Constructors**
+
+I Updated my HTML document to reflect this code assignment
+
+Created a function using HTML and JavaScript that utilizes a ternary operation using input from the browser
+
+Created a constructor function that uses the “new” and “this” keywords
+
+Created a function to display the results of the constructor function within an HTML element
+
+Created a nested function with an inner and outer function
+
+Write comments throughout your JavaScript explaining my code
