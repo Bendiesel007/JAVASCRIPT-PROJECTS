@@ -76,3 +76,17 @@ Created a function to display the results of the constructor function within an 
 Created a nested function with an inner and outer function
 
 Write comments throughout your JavaScript explaining my code
+
+**Project 7_Scope_Time_Function**
+
+I Updated my HTML document to reflect this code assignment
+
+I Assigned a local variable and a global variable
+
+I Wrote functions that includes if/else statements
+
+I wrote a function with an error in it and used the console.log() method to debug it within the console in the Chrome Dev Tools
+
+I Wrote the Time_function() with a conditional statement
+
+I Commented on my code
