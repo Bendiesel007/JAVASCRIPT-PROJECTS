@@ -1,0 +1,15 @@
+.slideshow-container { /* Custom class selector*/
+    position: relative; /*Positions an element relative to its normal, default spot on the page*/
+    max-width: 100%; /* Sets an elements maximum width to 100% of its parent container*/
+    margin: auto; /*Tells browser to automatically calculate and distribute available space around an element*/
+}
+.mySlides {
+    display: none; /*Hides an element and removes it from the page layout structure*/
+}
+.fade {
+    animation: fade 1.5s; /*Applies a custom animated fade with a total duration of 1.5 seconds to an element*/
+}
+@keyframes fade { /* @keyframes fade animation changes an elements transparency from an opacity 0.4 to 1*/
+    from {opacity: .4}  /*Hidden*/
+    to {opacity: 1} /*Visible*/
+}
