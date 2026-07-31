@@ -90,3 +90,13 @@ I wrote a function with an error in it and used the console.log() method to debu
 I Wrote the Time_function() with a conditional statement
 
 I Commented on my code
+
+**Project 8_String_Methods**
+
+I Updated my HTML document to reflect this code assignment
+
+Completed functions to utilize concat(), slice(), toString(), and toPrecision() methods
+
+Utilized HTML elements needed to call and display each function
+
+I Commented on my code
