@@ -100,3 +100,13 @@ Completed functions to utilize concat(), slice(), toString(), and toPrecision() 
 Utilized HTML elements needed to call and display each function
 
 I Commented on my code
+
+**Project 9_Countdown_Slideshow**
+
+I updated my HTML document to reflect this code
+
+I created a countdown() function
+
+I created a basic slideshow using HTML, CSS, and JavaScript
+
+I commented on my code
