@@ -110,3 +110,17 @@ I created a countdown() function
 I created a basic slideshow using HTML, CSS, and JavaScript
 
 I commented on my code
+
+**Project 10_Loops_Arrays**
+
+I updated my HTML document to reflect this code
+
+I wrote a function that utilizes a while loop
+
+I wrote a function that utilizes a for loop
+
+I Wrote a function that utilizes an array
+
+I created an object using the “let” keyword
+
+I commented on my code
