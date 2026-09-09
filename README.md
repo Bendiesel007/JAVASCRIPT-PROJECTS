@@ -124,3 +124,14 @@ I Wrote a function that utilizes an array
 I created an object using the “let” keyword
 
 I commented on my code
+
+**Tic Tac Toe Submission**
+
+I updated my HTML document
+
+I have submitted a fully functional Tic Tac Toe application
+
+I have submitted my CSS file named game.css.
+
+I have added comments throughout my Tic Tac Toe JavaScript explaining my code
+
