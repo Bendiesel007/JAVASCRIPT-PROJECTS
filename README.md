@@ -135,3 +135,14 @@ I have submitted my CSS file named game.css.
 
 I have added comments throughout my Tic Tac Toe JavaScript explaining my code
 
+**Calculator Submission**
+
+I have created a fully functional calculator application
+
+I have submitted a fully functional HTML document to reflect my code
+
+I have submitted a CSS document reflecting my code.
+
+I have submitted a JavaScript document with comments explaining my code
+
+
