@@ -145,4 +145,14 @@ I have submitted a CSS document reflecting my code.
 
 I have submitted a JavaScript document with comments explaining my code
 
+**Pizza Menu Submissiom**
+
+I have created an HTML code for Pizza menu
+
+I have created a functional CSS document for Pizza menu with my own customizations
+
+I have created a fully functional JavaScript document for Pizza menu
+
+Documents contains comments throughout
+
 
