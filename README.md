@@ -155,4 +155,18 @@ I have created a fully functional JavaScript document for Pizza menu
 
 Documents contains comments throughout
 
+**AJAX GITHUB ASSIGNMENT
+
+Submitted an AAX folder containing ajax_basic.html file
+
+Submitted an AAX folder containing content.html file
+
+Submitted an AAX folder containing response.html file
+
+Submitted an AAX folder containing ajaxScript.js file
+
+Submitted an AAX folder containing ajax.css file
+
+Code has comments
+
 
