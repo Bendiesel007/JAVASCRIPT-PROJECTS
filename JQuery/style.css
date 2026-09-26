@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+
+:root {/*Defines a global custom property (also called a CSS variable)
+named main-font and sets its value to the Gloock font family.*/
+    --main-font: 'Gloock', serif;
+}
+
+* { /*Tells the browser to include any padding and borders inside an
+    element's specified width and height.*/
+    box-sizing: border-box;
+}
+
+h1,
+h2 { /*Dictates all <h1> and <h2> elements share the same typography
+    and alignment.*/
+    font-family: var(--main-font); /*Sets the text font to a pre-defined
+  variable named main font.*/
+    text-align: center; /*Centers the text horizontally on the screen*/
+}
+
+h2 { /*Selects every HTML <h2> tag located on the page.*/
+    font-size: 40px; /*Changes the text size property to an absolute
+    measurement of 40 pixels wide/tall per character.*/
+}
+
+h3 { /*Selects every HTML <h3> tag located on the page.*/
+    font-family: var(--main-font); /*Sets the text font to a pre-defined
+  variable named main font.*/
+    font-size: 30px; /*Changes the text size property to an absolute
+    measurement of 30 pixels wide/tall per character.*/
+    text-align: left; /*Aligns the inline-level content of an element 
+    to the left edge of it's container.*/
+}
+
+/*HEADER SECTION*/
+
+.shine{ /*Class selector targets any HTML element with class="shine".*/
+    background-image: linear-gradient(0.15turn, /*Sets an image for the 
+    background. Linear-gradient function creates a progressive blend 
+    between two or more colors along a straight line.*/
+    #000000 40%,
+    #a8a8a8 50%,
+    #000000 60%);
+    background-clip: text; /*Clips an element's background(an image, 
+    color, or gradient) to the exact shape of it's text characters.*/
+    -webkit-background-clip: text; /*Tells the browser to take the 
+    background of this element and mask it so it only appears inside the
+    shape of the text letter.*/
+    -webkit-text-fill-color: transparent; /*Makes the text inside any HTML
+     element with the class shine completely invisible while keeping its
+     background or text-shadow visible.*/
+}
+
+.header { /*Class selector used to target and style any HTML element that
+    has a class="header" attribute.*/
+    padding-top: 150px; /*Adds 150 pixels of empty inner space at the top of
+    an HTML element, pushing its text or inner content downward away from the
+    top edge.*/
+    font-size: 150px; /*Targets how large the pixels will be within the header.*/
+    transition: 0.5s ease; /*Tells the browser to smoothly animate any changes to 
+    the header element over a duration of 0.5 seconds using slow start and end.*/
+    
+}
+
+.header-scrolled{ /*Class selector that targets any HTML element that has benn given
+    the class name header-scrolled*/
+    font-size: 100px; /*This makes the text inside the element large. 100 pixes tall.*/
+    transition: 0.5s ease; /*Creates a smooth animation effect. The font will smmothly
+    grow or shrink over 0.5 seconds.*/
+}
+
+img{ /*Selector for every image on the page*/
+    width: 100%; /*Takes up 100% of the space in each column*/
+    height: auto; /*Tells browser to adjust the height automatically 
+    so it keeps its original aspect ratio. prevents image from looking
+    squished or stretched*/
+    cursor: pointer; /*Changes the mouse pointer to a pointing hand icon
+    when a user hovers over an image, indicating that the image is clickable
+    or interactive.*/
+    box-shadow: 20px 20px -9px rgba(60, 60, 60, 0.35),
+    10px 10px 10px -9px rgba(0, 0, 0, 0.5);
+}
+
+.car-title { /*Class selector used to target and style any HTML element that 
+    has a class attribute matching the name car-title.*/
+    font-size: 30px; /*Targets how large the pixels will be.*/
+    display: none; /*Hides car image titles for show and hide
+    jQuery effect*/
+}
+
+.container { /*Targets any HTML element that has class="container".*/
+    width: 100%; /*Makes container take up full width of it's parent element.*/
+    margin-right: auto; /*Centers the container horizontally on the page.*/
+    margin-left: auto;
+}
+
+.row { /*Class selector used to target and style any HTML element that 
+    has a class attribute matching the name row.*/
+    width: 90%;/*Sets the width of the row container to fill 90% of its
+    parent element's width.*/
+    display: flex;/*Forces all direct child elements to sit side by side 
+    in a horizontal row rather than stacking on top of each other.*/
+    justify-content: center; /*Aligns the child elements inside the row
+    to the exact horizontal center.*/
+    margin-right: auto; /*Automatically calculates  and balances the outer 
+    and right margins of the .row container itself.*/
+    margin-left: auto;
+}
+
+.column { /*Class selector used to target and style any HTML element that 
+    has a class attribute matching the name column.*/
+    width: 33%; /*Sets the width of the colunm container to fill 33% of its
+    parent element's width.*/
+    margin: 40px; /*Adds 40 pixels of empty space around all four sides*/
+}
+
+.faq{ /*Targets any HTML element that has class="faq".*/
+    width: 80%; /*Makes container take up 80% of it's parent container.*/
+    padding: 50px 100px 100px; /*Creates internal space inside the element:
+    50px at the top, 100px on left and right sides, and 100px at the bottom.*/
+    border: 2px solid black; /*Draws a 2px thick, solid black border around
+    the element.*/
+    margin-bottom: 250px; /*Forces a massive 250px of empty space below this 
+    element, pushing any content underneath it far down the page.*/
+}
+
+.question{ /*Targets any HTML element that has class="question".*/
+    padding: 50px 20px; /*Creates invisible space inside the element,
+    pushing content away from element edges. 50px applies to top and
+    bottom and 20px applies to left and right.*/
+    border-bottom: 1px solid black; /*Creates a line between
+    each question*/
+    cursor: pointer; /*Changes the user's mouse cursor into a hand icon when hovering over the button,
+  indicating it can be clicked.*/
+}
+
+.answer{ /*Targets any HTML element that has class="answer".*/
+    display: none; /*Hides FAQ answer until user clicks the 
+    FAQ question*/
+    padding: 40px 20px;
+}
